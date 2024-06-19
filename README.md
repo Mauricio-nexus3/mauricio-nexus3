@@ -1,8 +1,6 @@
 ### Hi everybody / Oi pessoal 👋
 
 
-
-- 🔭 I’m currently working at Guaíba tecnologia - HelpDesk
 - 🌱 I’m currently learning Flutter and Flutterflow.
 - 🤔 I'm still at the beginning, so any help will be appreciated. 😄
 
